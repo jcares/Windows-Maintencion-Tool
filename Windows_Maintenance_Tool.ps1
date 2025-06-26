@@ -15,11 +15,11 @@ function Pause-Menu {
 function Show-Menu {
     Clear-Host
     Write-Host "====================================================="
-    Write-Host "         WINDOWS MAINTENANCE TOOL V3.1.2 - By Lil_Batti"
+    Write-Host "         WINDOWS MAINTENANCE TOOL V3.1.2 - By PC-CURICO"
     Write-Host "====================================================="
     Write-Host
     Write-Host "     === WINDOWS UPDATES ==="
-    Write-Host "  [1]  Update Windows Apps / Programs (Winget upgrade)"
+    Write-Host "  [1]  Update Windows Apps / Programas (Winget upgrade)"
     Write-Host
     Write-Host "     === SYSTEM HEALTH CHECKS ==="
     Write-Host "  [2]  Scan for corrupt files (SFC /scannow) [Admin]"
